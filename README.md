@@ -1,5 +1,4 @@
-# Aceptance tests with
-# WebdriverIO gulp and mocha :)
+# Aceptance tests with WebdriverIO gulp and mocha :)
 
 ## Instructions
 
