@@ -21,7 +21,7 @@ O projeto utiliza as seguintes tecnologias:
 
 Obs: todos os pacotes e suas dependências estão mencionados no package.json
 
-#### Instalação:
+### Instalação:
 
 * npm install
 
