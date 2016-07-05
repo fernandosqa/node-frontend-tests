@@ -19,7 +19,7 @@ O projeto utiliza as seguintes tecnologias:
 * [NPM - Node Package Manager](https://www.npmjs.com/) - para gerenciamento dos pacotes necessários para build e funcionamento do app .
 * [Selenium](https://www.npmjs.com/package/selenium-standalone) - moto de execução dos testes.
 
-Obs: todos os pacotes e suas dependência estão mencionados no package.json
+Obs: todos os pacotes e suas dependências estão mencionados no package.json
 
 ### Instalação:
 
