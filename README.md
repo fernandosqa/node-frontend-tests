@@ -11,7 +11,7 @@ O projeto utiliza as seguintes tecnologias:
 
 ### Sendo que é composto pelas seguintes bibliotecas:
 
-* [Gulp](https://github.com/gulpjs/gulp) - para build front-end.
+* [Gulp](https://github.com/gulpjs/gulp) - "instanciamento" :P do selenium standalone e configurações do wdio.conf.js
 * [Mocha](https://mochajs.org/) - como framework de testes de unidade.
 * [WebDriver.io](http://webdriver.io/) - como framework de testes de aceitação.
 * [Chai](http://chaijs.com/) - para suporte à TDD\BDD.
