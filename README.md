@@ -17,7 +17,7 @@ O projeto utiliza as seguintes tecnologias:
 * [Chai](http://chaijs.com/) - para suporte à TDD\BDD.
 * [BabelJs](https://babeljs.io/) - para utilização da especificação ES6 e ES7 para todos navegadores (organização de código em módulos).
 * [NPM - Node Package Manager](https://www.npmjs.com/) - para gerenciamento dos pacotes necessários para build e funcionamento do app .
-* [Selenium](https://www.npmjs.com/package/selenium-standalone) - moto de execução dos testes.
+* [Selenium](https://www.npmjs.com/package/selenium-standalone) - motor de execução dos testes.
 
 Obs: todos os pacotes e suas dependências estão mencionados no package.json
 
